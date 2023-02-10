@@ -1,14 +1,6 @@
 # We installed cvzone for this project
 # we installed mediapipe
 
-
-# The connection to the terminal's pty host process is unresponsive, the terminals may stop working. I get this after running this program termination.
-
-
-# challenge:1. add sound on button click
-# 2. add more buttons to it.
-
-
 import cv2
 from cvzone.HandTrackingModule import HandDetector
 import winsound #for playing beep sound
